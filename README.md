@@ -1,4 +1,4 @@
-# Tests de Aleatoriedad 
+# NIST Randomness Tests
  
 Implementación de pruebas estadísticas de aleatoriedad sobre secuencias binarias, basadas en el estándar **NIST SP 800-22**.
  
@@ -12,13 +12,6 @@ Implementación de pruebas estadísticas de aleatoriedad sobre secuencias binari
 | 8 | Overlapping Template Matching Test |
 | 12 | Approximate Entropy Test |
  
----
- 
-## ⚙️ Requisitos
- 
-```bash
-pip install -r requirements.txt
-```
 ---
  
 ## 📚 Referencia
